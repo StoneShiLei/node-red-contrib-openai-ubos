@@ -1,5 +1,5 @@
 {
-  "name": "node-red-contrib-openai-ubos",
+  "name": "node-red-contrib-openai-ubos-api2d-proxy",
   "version": "1.0.1",
   "description": "",
   "main": "subflow.js",
